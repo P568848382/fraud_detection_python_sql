@@ -454,12 +454,12 @@ psql -U postgres -c "CREATE DATABASE fraud_detection;"
 | Project | Tools | Link |
 |---|---|---|
 | Ecommerce Sales Analysis (Google Analytics) | BigQuery SQL | [GitHub](https://github.com/P568848382/sql-ecommerce-google-analytics) |
-| Customer Churn Analysis (Telco) | PostgreSQL · Python · Pandas | [GitHub](https://github.com/P568848382/sql-customer-churn-analysis) |
-| Employee Performance Dashboard | PostgreSQL · Python · Pandas | [GitHub](https://github.com/P568848382/sql-employee-performance-dashboard) |
-| **Financial Fraud Detection** | **PostgreSQL · Python · Pandas** | **← You are here** |
+| Customer Churn Analysis (Telco) | PostgreSQL · Python · Pandas . NumPy | [GitHub](https://github.com/P568848382/sql-customer-churn-analysis) |
+| Employee Performance Dashboard | PostgreSQL · Python · Pandas. NumPy  | [GitHub](https://github.com/P568848382/sql-employee-performance-dashboard) |
+| **Financial Fraud Detection** | **PostgreSQL · Python · Pandas . NumPy** | https://github.com/P568848382/fraud_detection_python_sql |
 | Olist Brazilian E-commerce | PostgreSQL · Python · Tableau · ML | [GitHub](https://github.com/P568848382/olist-ecommerce-intelligence) |
 | Dairy Sales & Finance Analysis | Python · PostgreSQL · DAX · Tableau | [GitHub](https://github.com/P568848382/msrb_dairy_analytics) |
-| Superstore Analysis | Python · SQL · Tableau | [GitHub](https://github.com/P568848382/superstore-analytics-project) |
+| Superstore Analysis | Python · PostgreSQL · Tableau | [GitHub](https://github.com/P568848382/superstore-analytics-project) |
 
 ---
 
