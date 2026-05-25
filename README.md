@@ -93,7 +93,7 @@ flowchart TD
 | **NumPy** | log1p transformation, z-score calculation |
 | **SQLAlchemy + psycopg2** | PostgreSQL connection + explicit dtype DDL |
 | **PostgreSQL** | All 9 fraud detection SQL queries |
-| **DBeaver** | SQL execution and result export |
+| **pgAdmin** | SQL execution and result export |
 
 ---
 
